@@ -1,0 +1,10 @@
+{"text": "Machine learning algorithms can be supervised or unsupervised.", "label": "ml"}
+{"text": "Neural networks are inspired by biological brain structures.", "label": "ml"}
+{"text": "Deep learning uses multiple layers of neural networks.", "label": "ml"}
+{"text": "The weather forecast predicts rain tomorrow.", "label": "weather"}
+{"text": "It's sunny and warm outside today.", "label": "weather"}
+{"text": "The temperature will drop significantly tonight.", "label": "weather"}
+{"text": "Python is a popular programming language.", "label": "programming"}
+{"text": "JavaScript is commonly used for web development.", "label": "programming"}
+{"text": "Java is an object-oriented programming language.", "label": "programming"}
+{"text": "The restaurant serves delicious Italian food.", "label": "food"} 

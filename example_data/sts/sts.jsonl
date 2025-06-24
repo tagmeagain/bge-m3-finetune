@@ -1,0 +1,10 @@
+{"sentence1": "The cat is on the mat", "sentence2": "A feline sits on the carpet", "score": 0.9}
+{"sentence1": "The weather is sunny today", "sentence2": "It's a beautiful day with clear skies", "score": 0.8}
+{"sentence1": "Machine learning is a subset of AI", "sentence2": "AI includes various techniques like neural networks", "score": 0.7}
+{"sentence1": "Python is great for data science", "sentence2": "The restaurant serves delicious food", "score": 0.1}
+{"sentence1": "The movie was entertaining", "sentence2": "This film provides great entertainment", "score": 0.9}
+{"sentence1": "The book contains fascinating stories", "sentence2": "This novel has compelling narratives", "score": 0.8}
+{"sentence1": "The car has excellent fuel efficiency", "sentence2": "This vehicle offers great mileage", "score": 0.8}
+{"sentence1": "The quick brown fox jumps", "sentence2": "A fast auburn fox leaps", "score": 0.9}
+{"sentence1": "The weather is sunny today", "sentence2": "The cat is on the mat", "score": 0.1}
+{"sentence1": "Machine learning algorithms", "sentence2": "Neural network models", "score": 0.8} 
